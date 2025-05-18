@@ -1,0 +1,6 @@
+Task 3: Docker-Compose-Stack
+Create a docker compose project consisting of two containers:
+One PostgreSQL-Container (Version 17) which has the pgvector extension preinstalled
+One PGAdmin-Container (Latest Version) with a preferably preconfigured connection to the PostgreSQL-Container
+PGAdmin should be locally exposed to Port 8080
+Use an environment file for all necessary parameters
